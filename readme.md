@@ -1,0 +1,2 @@
+Here is a simple Script that cleans up a preretail Radarr instance if in your postretail Radarr instance a movie was found in perfect condition.
+With Pushover as notification. It also empties the trash bin of plex
